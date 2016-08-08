@@ -1,0 +1,28 @@
+_repo: The-Young-Wireless-Operator-As-a-Fire-PatrolThe-Story-of-a-Young-Wireless-Amateur-Who-Made-Go__12839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Theiss, Lewis E. (Lewis Edwin)
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '4662'
+    url: http://www.gutenberg.org/2009/agents/4662
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2004-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Forest fires -- Prevention and control -- Juvenile fiction'
+- !lcsh 'Radio -- Juvenile fiction'
+- GITenberg
+title: 'The Young Wireless Operator—As a Fire Patrol
+
+  The Story of a Young Wireless Amateur Who Made Good as a Fire Patrol'
+url: http://www.gutenberg.org/ebooks/12839
